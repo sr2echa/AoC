@@ -16,3 +16,14 @@ For 2023, I am on a mission to solve each day's question in a new different lang
 My intention is to learn the basics and familiarize myself with languages that I dont use regularly or wish to learn. <br>
 By the end of the season, I should have 31 Solutions in atleast 15 different languages.
 </samp>
+<br><br>
+<samp>
+  
+> and I failed. Exams got in the way and i never could sit solve more problems in languages as just the parsing the input is a hassle in many programing languages given its massive size, structure and format. Many languages proved to be just functional and not viable be used for AoC like logic based scripting.
+</samp>
+
+### 2024
+<samp>
+  
+> Currently my end term exams going on. Will have to see if i have the energy to take up an challenge post exams and speedrun AoC. only time will tell....
+</samp>
